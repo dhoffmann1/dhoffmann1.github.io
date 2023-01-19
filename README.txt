@@ -1,3 +1,17 @@
+Hello World!
+
+My name is Daniel Hoffmann and this is the Github Repository for my Portfolio Page!
+
+Please use the following link to get to my Portfolio: https://pepa90210.github.io/
+
+If you have any questions for me please reach out at danielhoffmann1@gmail.com
+
+Thank you!
+
+
+
+
+
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -11,12 +25,6 @@ Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
 you can use for pretty much whatever.
 
 (* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
 
 Credits:
 
