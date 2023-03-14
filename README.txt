@@ -2,7 +2,7 @@ Hello World!
 
 My name is Daniel Hoffmann and this is the Github Repository for my Portfolio Page!
 
-Please use the following link to get to my Portfolio: https://pepa90210.github.io/
+Please use the following link to get to my Portfolio: https://dhoffmann1.github.io/
 
 If you have any questions for me please reach out at danielhoffmann1@gmail.com
 
